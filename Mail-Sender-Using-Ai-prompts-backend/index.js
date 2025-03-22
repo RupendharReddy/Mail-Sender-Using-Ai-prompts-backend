@@ -94,5 +94,5 @@ const details = {
 const prompt = "generate a letter to HR for the job ";
 console.log("Prompt - "+prompt+"\n");
 
-generateResponseWithDetails(prompt, details);
-generateResponse(prompt);
+// generateResponseWithDetails(prompt, details);
+// generateResponse(prompt);
